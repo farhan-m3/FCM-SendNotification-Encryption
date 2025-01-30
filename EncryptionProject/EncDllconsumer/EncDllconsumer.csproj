@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="EncDec_UniqueKey">
-      <HintPath>..\..\EncDec_UniqueKey\EncDec_UniqueKey\bin\Debug\EncDec_UniqueKey.dll</HintPath>
+      <HintPath>..\..\..\..\All Desktop Data\FinalEncDecTask\EncDec_UniqueKey\EncDec_UniqueKey\bin\Debug\EncDec_UniqueKey.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
